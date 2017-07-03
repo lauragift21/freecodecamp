@@ -1,0 +1,14 @@
+body {
+  margin: 50px;
+}
+.container{
+	text-align: center;
+	text-overflow: hidden;
+}
+.jumbotron{
+  background-color: gray;
+  margin: 20px;
+}
+.footer{
+  img: url ("https://en.wikipedia.org/wiki/Ada_Lovelace");
+}
