@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Sofia:400,500);
+html {
+    font-family: "Avenir Next", Helevetica, sans-serif;
+    text-align: center;
+  }
+
+  body {
+    margin: 0 auto;
+  } 
+
+  h1, h2 {
+    font-weight: 300;
+  }
